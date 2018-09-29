@@ -7267,7 +7267,7 @@ Created using IcoMoon - icomoon.io
 /* Credit Style */
 a.credit {
   color: inherit;
-  border-bottom: 1px dashed;
+  /* border-bottom: 1px dashed; */
   text-decoration: none;
   cursor: pointer;
 }
