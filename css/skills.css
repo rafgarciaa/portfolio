@@ -1,0 +1,28 @@
+.skills-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 25px;
+  text-align: center;
+  font-size: 18px;;
+}
+
+i {
+  padding-bottom: 10px;
+  font-size: 70px;
+}
+
+svg {
+  height: 66.28px;
+}
+
+i:hover {
+  cursor: pointer;
+}
+
+svg:hover {
+  cursor: pointer;
+}
