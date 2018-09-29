@@ -26,3 +26,7 @@ i:hover {
 svg:hover {
   cursor: pointer;
 }
+
+a.credit:hover {
+  color: red;
+}
